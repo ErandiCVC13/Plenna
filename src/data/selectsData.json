@@ -1,0 +1,104 @@
+{
+    "options": [
+        [
+            {
+                "label": "Tipo de consulta",
+                "value": ""
+            },
+            {
+                "label": "Ninguno",
+                "value": "Ninguno"
+            },
+            {
+                "label": "Básica",
+                "value": "Básica"
+            },
+            {
+                "label": "Plenna",
+                "value": "Plenna"
+            },
+            {
+                "label": "Plus",
+                "value": "Plus"
+            }
+        ],
+        [
+            {
+                "label": "Estudios",
+                "value": ""
+            },
+            {
+                "label": "Ninguno",
+                "value": "Ninguno"
+            },
+            {
+                "label": "Ecografía pélvica",
+                "value": "Ecografía pélvica"
+            },
+            {
+                "label": "Papanicolau",
+                "value": "Papanicolau"
+            },
+            {
+                "label": "Colposcopia",
+                "value": "Colposcopia"
+            },
+            {
+                "label": "Histerosalpingografía",
+                "value": "Histerosalpingografía"
+            },
+            {
+                "label": "Rastreo de infecciones",
+                "value": "Rastreo de infecciones"
+            },
+            {
+                "label": "Ultrasonido de mama",
+                "value": "Ultrasonido de mama"
+            }
+        ],
+        [
+            {
+                "label": "Servicios",
+                "value": ""
+            },
+            {
+                "label": "Ninguno",
+                "value": "Ninguno"
+            },
+            {
+                "label": "Implante subpermico",
+                "value": "Implante subpermico"
+            },
+            {
+                "label": "SIU",
+                "value": "SIU"
+            },
+            {
+                "label": "DIU",
+                "value": "DIU"
+            }
+        ],
+        [
+            {
+                "label": "Productos",
+                "value": ""
+            },
+            {
+                "label": "Ninguno",
+                "value": "Ninguno"
+            },
+            {
+                "label": "Copa menstrual",
+                "value": "Copa menstrual"
+            },
+            {
+                "label": "Juguete sexual",
+                "value": "Juguete sexual"
+            },
+            {
+                "label": "Lubricante",
+                "value": "Lubricante"
+            }
+        ]
+    ]
+}
