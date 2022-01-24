@@ -1,0 +1,110 @@
+.container {
+  padding: 0 2rem;
+  height: 100%;
+}
+
+.sectionContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  justify-content: space-between;
+  padding: 1rem 3rem;
+}
+.buttonContainer {
+  align-self: flex-end;
+}
+
+.titleContainer {
+  align-self: flex-start;
+}
+
+.main {
+  min-height: 100vh;
+  padding: 4rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  background-color: #712045;
+  display: flex;
+  flex: 1;
+  padding: 2rem 0;
+  border-top: 1px solid #eaeaea;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.containerHistory {
+  /* height: 70%; */
+  width: 100%;
+  overflow-y: scroll;
+}
+
+.containerHistory {
+  margin: 0.5rem auto;
+  height: 70vh;
+  width: 90%;
+  overflow: auto;
+  box-sizing: border-box;
+  padding-right: 1rem;
+  width: 100%;
+}
+
+/* Estilos para motores Webkit y blink (Chrome, Safari, Opera... )*/
+
+.containerHistory::-webkit-scrollbar {
+  -webkit-appearance: none;
+}
+
+.containerHistory::-webkit-scrollbar:vertical {
+  width: 10px;
+}
+
+.containerHistory::-webkit-scrollbar-button:increment,
+.containerHistory::-webkit-scrollbar-button {
+  display: none;
+}
+
+.containerHistory::-webkit-scrollbar-thumb {
+  background-color: #797979;
+  border-radius: 20px;
+  border: 2px solid #f1f2f3;
+}
+.containerHistory::-webkit-scrollbar:horizontal {
+  width: 10px;
+}
+
+.containerHistory::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+
+.containerLogin {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+
+.login {
+  width: 30%;
+  height: 80%;
+  background-color: #71204477;
+  display: flex;
+  border-radius: 10px;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
