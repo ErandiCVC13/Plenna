@@ -1,0 +1,13 @@
+.newAppointmentViewContainer{
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    width: 100%;
+    height: 100%;
+    padding: 1rem 3rem;
+}
+
+.buttonNext{
+    top:50%;
+    margin: 0 auto;
+    width: 55%;
+}
