@@ -1,0 +1,14 @@
+
+.selectContainer {
+    width: 100%;
+}
+
+.select {
+    width: 85%;
+    border-width: medium;
+    border-color: #712045;
+    border-radius: 4px;
+    height: 2.5rem;
+
+}
+

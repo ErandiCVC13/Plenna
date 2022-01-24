@@ -1,0 +1,7 @@
+{ "information" : [    
+    { "label": "Paciente:", "value": "Joe Dow" },
+    { "label": "Alergias:", "value": "Ninguna" },
+    { "label": "Estatura:", "value": "1.58" },
+    { "label": "Edad:", "value": "32" },
+    { "label": "Peso:", "value": "58Kg" }]
+}
